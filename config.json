@@ -1,0 +1,26 @@
+{
+    "voice": {
+        "rate": 180,
+        "volume": 0.9,
+        "wake_word": "jarvis",
+        "offline_mode": true
+    },
+    "gui": {
+        "fullscreen": true,
+        "animations": true,
+        "theme": "blue"
+    },
+    "system": {
+        "startup_sound": true,
+        "monitoring_interval": 1.0,
+        "face_recognition": true,
+        "use_local_nlp": true
+    },
+    "features": {
+        "weather": true,
+        "system_control": true,
+        "web_search": true,
+        "face_recognition": true,
+        "voice_commands": true
+    }
+}

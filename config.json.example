@@ -1,0 +1,17 @@
+{
+    "voice": {
+        "rate": 180,
+        "volume": 0.9,
+        "wake_word": "jarvis"
+    },
+    "system": {
+        "startup_sound": true,
+        "gui_animations": true,
+        "fullscreen": true
+    },
+    "api_keys": {
+        "openai": "your-openai-key-here",
+        "wolfram": "your-wolfram-key-here",
+        "weather": "your-weather-key-here"
+    }
+}
