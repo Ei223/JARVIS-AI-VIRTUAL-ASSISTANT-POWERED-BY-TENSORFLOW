@@ -26,7 +26,7 @@ An advanced AI assistant inspired by Iron Man's JARVIS, featuring a futuristic G
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/jarvis.git
+git clone https://github.com/Ei223/jarvis.git
 cd jarvis
 ```
 
@@ -68,6 +68,7 @@ python main.py
    - Memory utilization
    - Temperature monitoring
    - Process management
+   - Tells the Battery Level
 
 2. **Voice Interaction**
    - Natural language processing
@@ -109,4 +110,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Inspired by Iron Man's JARVIS
 - Built with Python and PyQt6
+
 - Uses various open-source libraries
